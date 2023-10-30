@@ -1,0 +1,38 @@
+Fait par erwan blandeau.
+
+Commende {
+	
+	/ = ou
+
+Menu :
+
+    Bouton Jouer : Commencer une partie.
+    bouton Quitter : Quitter le jeu.
+
+En partie :
+        
+    Escape / Echap : Mettre le jeu en pause.
+    Fleche gauche / Q : Déplacer le vaisseau à gauche.
+    Fleche droite / D : Déplacer le vaisseau à droite.
+    Fleche haut / Z / espace : Lancer un missile provenant du vaisseau.
+
+En pause : 
+
+    Bouton Continuer : Continuer la partie.
+    Bouton Recommencer : Recommencer la partie.
+    bouton Quitter : Quitter le jeu.
+
+Sur la page "VOULEZ VOUS CONTINUER" :
+
+    Enter / Entrée : Continuer le jeu (Niveau suivant).
+    Del / Supper : Abandonner 
+
+Sur la page "VOUS AVEZ GAGNER" ou "VOUS AVEZ PERDU":
+
+    Enter / Entrée : Retourner au menu.
+
+}
+
+
+
+
